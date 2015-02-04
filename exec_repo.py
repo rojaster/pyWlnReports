@@ -27,7 +27,7 @@ cl_tmz_offset_req = -time.timezone - 18000 # +05:00GMT
 cl_tmz_offset_resp = time.timezone + 18000
 
 
-def login(user='86140404', passwd='294711'):
+def login(user='login', passwd='pass'):
     """
     Core Rest_api login : core/login
 
